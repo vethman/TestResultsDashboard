@@ -1,3 +1,4 @@
+using System;
 using TestResultsDashboard.Common.Enums;
 
 namespace TestResultsDashboard.Services.Models.Dto;

@@ -1,3 +1,4 @@
+using System;
 using System.Text.Json.Serialization;
 using TestResultsDashboard.Common.Enums;
 using TestResultsDashboard.Services.JsonConverters;

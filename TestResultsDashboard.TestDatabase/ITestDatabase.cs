@@ -1,3 +1,5 @@
+using System.Threading.Tasks;
+
 namespace TestResultsDashboard.TestDatabase;
 
 public interface ITestDatabase
