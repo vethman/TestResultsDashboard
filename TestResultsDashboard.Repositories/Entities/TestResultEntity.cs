@@ -1,3 +1,4 @@
+using System;
 using MongoDB.Entities;
 
 namespace TestResultsDashboard.Repositories.Entities;
