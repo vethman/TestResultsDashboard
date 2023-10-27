@@ -1,0 +1,12 @@
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\bin\Debug\net7.0\TestResultsDashboard.TestDatabase.deps.json
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\bin\Debug\net7.0\TestResultsDashboard.TestDatabase.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\bin\Debug\net7.0\TestResultsDashboard.TestDatabase.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\TestResultsDashboard.TestDatabase.csproj.AssemblyReference.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\TestResultsDashboard.TestDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\TestResultsDashboard.TestDatabase.AssemblyInfoInputs.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\TestResultsDashboard.TestDatabase.AssemblyInfo.cs
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\TestResultsDashboard.TestDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\TestResultsDashboard.TestDatabase.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\refint\TestResultsDashboard.TestDatabase.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\TestResultsDashboard.TestDatabase.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.TestDatabase\obj\Debug\net7.0\ref\TestResultsDashboard.TestDatabase.dll

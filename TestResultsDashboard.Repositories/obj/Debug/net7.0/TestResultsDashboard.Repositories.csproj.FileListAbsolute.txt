@@ -1,0 +1,15 @@
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\bin\Debug\net7.0\TestResultsDashboard.Repositories.deps.json
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\bin\Debug\net7.0\TestResultsDashboard.Repositories.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\bin\Debug\net7.0\TestResultsDashboard.Repositories.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\TestResultsDashboard.Repositories.csproj.AssemblyReference.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\TestResultsDashboard.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\TestResultsDashboard.Repositories.AssemblyInfoInputs.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\TestResultsDashboard.Repositories.AssemblyInfo.cs
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\TestResultsDashboard.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\TestResultsDashboard.Repositories.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\refint\TestResultsDashboard.Repositories.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\TestResultsDashboard.Repositories.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\ref\TestResultsDashboard.Repositories.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\bin\Debug\net7.0\TestResultsDashboard.Common.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\bin\Debug\net7.0\TestResultsDashboard.Common.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Repositories\obj\Debug\net7.0\TestResultsDashboard.Repositories.csproj.CopyComplete

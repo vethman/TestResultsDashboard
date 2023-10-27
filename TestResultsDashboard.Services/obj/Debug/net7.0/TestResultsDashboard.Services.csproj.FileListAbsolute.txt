@@ -1,0 +1,17 @@
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\bin\Debug\net7.0\TestResultsDashboard.Services.deps.json
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\bin\Debug\net7.0\TestResultsDashboard.Services.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\bin\Debug\net7.0\TestResultsDashboard.Services.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\bin\Debug\net7.0\TestResultsDashboard.Common.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\bin\Debug\net7.0\TestResultsDashboard.Repositories.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\bin\Debug\net7.0\TestResultsDashboard.Repositories.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\bin\Debug\net7.0\TestResultsDashboard.Common.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\TestResultsDashboard.Services.csproj.AssemblyReference.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\TestResultsDashboard.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\TestResultsDashboard.Services.AssemblyInfoInputs.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\TestResultsDashboard.Services.AssemblyInfo.cs
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\TestResultsDashboard.Services.csproj.CoreCompileInputs.cache
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\TestResultsDashboard.Services.csproj.CopyComplete
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\TestResultsDashboard.Services.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\refint\TestResultsDashboard.Services.dll
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\TestResultsDashboard.Services.pdb
+C:\Users\Veth\RiderProjects\TestResultsDashboard\TestResultsDashboard.Services\obj\Debug\net7.0\ref\TestResultsDashboard.Services.dll

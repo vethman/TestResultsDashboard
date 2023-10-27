@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z5QnMxNh8OgfzmRZH6XK7lTDEMeV7H2eHmyOIVzd0AI=",
+  "Source": "TestResultsDashboard.WebApi",
+  "BasePath": "_content/TestResultsDashboard.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
