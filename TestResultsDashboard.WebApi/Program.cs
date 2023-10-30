@@ -1,19 +1,16 @@
-using System;
-using System.Text.Json.Serialization;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Any;
 using Microsoft.OpenApi.Models;
+using MongoDB.Entities;
 using TestResultsDashboard.Repositories;
+using TestResultsDashboard.Repositories.Configuration;
 using TestResultsDashboard.Services;
 using TestResultsDashboard.Services.JsonConverters;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-await builder.Services.AddRepositoriesAsync(builder.Configuration);
 builder.Services
+    .AddRepositories()
     .AddServices()
     .AddFluentValidators();
 
@@ -22,6 +19,11 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen( c => c.MapType<TimeSpan?>(() => new OpenApiSchema { Type = "string", Example = new OpenApiString("00:00:00") }));
+
+var databaseConfig = new DatabaseConfig();
+builder.Configuration.GetSection("Database").Bind(databaseConfig);
+
+await DB.InitAsync(databaseConfig.Name, databaseConfig.Host, databaseConfig.Port);
 
 var app = builder.Build();
 
@@ -39,3 +41,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+public partial class Program { }

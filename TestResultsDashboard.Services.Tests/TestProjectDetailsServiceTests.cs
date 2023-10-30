@@ -1,5 +1,3 @@
-using System;
-using System.Threading.Tasks;
 using Moq;
 using TestResultsDashboard.Common.Enums;
 using TestResultsDashboard.Repositories;

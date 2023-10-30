@@ -2,8 +2,8 @@
 
 namespace TestResultsDashboard.SystemTests.Fixtures
 {
-    [Collection(nameof(TestDatabaseCollection))]
-    public class TestDatabaseCollection : ICollectionFixture<TestDatabaseFixture>
+    [CollectionDefinition(nameof(TestDatabaseCollection))]
+    public class TestDatabaseCollection : ICollectionFixture<TestDatabaseFixture>, IClassFixture<CustomWebApplicationFactory>
     {
 
     }
@@ -16,11 +16,15 @@ namespace TestResultsDashboard.SystemTests.Fixtures
         {
             TestDatabase = new TestMongoDb();
             await TestDatabase.InitializeAsync();
+            CustomWebApplicationFactory.SetTestDatabaseConfiguration(TestDatabase.Name, TestDatabase.Host, TestDatabase.Port);
         }
 
         public async Task DisposeAsync()
         {
-            await TestDatabase.DisposeAsync();
+            if (TestDatabase != null)
+            {
+                await TestDatabase.DisposeAsync();
+            }
         }
     }
 }
