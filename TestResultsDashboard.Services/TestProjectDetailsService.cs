@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using TestResultsDashboard.Common;
+﻿using TestResultsDashboard.Common;
 using TestResultsDashboard.Common.Enums;
 using TestResultsDashboard.Repositories;
 using TestResultsDashboard.Repositories.Entities;
