@@ -1,4 +1,3 @@
-using System.Threading.Tasks;
 using TestResultsDashboard.Services.Models.Dto;
 
 namespace TestResultsDashboard.Services;
