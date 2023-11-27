@@ -2,10 +2,10 @@ using FluentAssertions;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using System.Net;
+using TestResultsDashboard.AppTests.Fixtures;
 using TestResultsDashboard.Services;
 using TestResultsDashboard.Services.Models;
 using TestResultsDashboard.Services.Models.Dto;
-using TestResultsDashboard.SystemTests.Fixtures;
 
 namespace TestResultsDashboard.AppTests;
 
